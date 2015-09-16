@@ -6,6 +6,14 @@ Based on the
 [workshop-flexbox](https://github.com/nucliweb/workshop-flexbox)
 by [@nucliweb](https://github.com/nucliweb)
 
+## Usage
+
+```jsx
+<Dice faces={5} />
+<Dice faces={5} size={120} />
+<Dice faces={5} size={120} dotSize={14} />
+```
+
 ## Instalation
 Clone this repository and run:
 ```
